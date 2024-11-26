@@ -20,6 +20,8 @@ and I'm always open to new connections 🤝
 
 **Remember**: Don't be afraid to ask questions, even the "dumb" ones. Let's grow together! 🌱
 
+---
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tony-Rako&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tony-Rako&layout=compact&theme=tokyonight)
