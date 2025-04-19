@@ -2,9 +2,9 @@
 
 ### 👋 Hi, I’m @Tony-Rako
 
-I'm an aspiring fullstack developer 🌐
+I'm an aspiring software developer focused on solving real-world problems 🌐
 constantly learning and sharing my journey in public 📚
-I love spreading tips & tricks 💡 
+I spread tips & tricks when I can 💡 
 and I'm always open to new connections 🤝
 
 
@@ -13,7 +13,6 @@ and I'm always open to new connections 🤝
 - 🌱 I’m currently learning Next.js, Node.js, and cloud computing.
 - 💞️ I’m looking to collaborate on exciting open-source projects.
 - 📫 How to reach me: [Email](mailto:anthonylee.am@gmail.com) | [LinkedIn](https://www.linkedin.com/in/anthonyrako) | [X](https://x.com/AnthonyRakoton2)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can do a salto!
 
 ---
